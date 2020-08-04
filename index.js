@@ -280,7 +280,7 @@ AFRAME.registerComponent('lounge', {
     width: {type: 'number', default: 10},
     height: {type: 'number', default: 4},
     depth: {type: 'number', default: 7},
-    floorColor: {type: 'color', default: '#808080'},
+    floorColor: {type: 'color', default: 'FFF'},
     floorTexture: {type: 'asset'},
     wallColor: {type: 'color', default: '#aaa4a4'},
     ceiling: {type: 'boolean', default: true},
